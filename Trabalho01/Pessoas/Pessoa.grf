@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 200 3 2 3 4 
+"" 547 193 0 
+"sr.+Sr.+sra.+Sra.+dr.+Dr.+D.+dra.+Dra.+senhor+Senhor+senhora+Senhora+doutor+Doutor+doutora+Doutora" 188 156 1 5 
+"segundo+disse+afirma+falou+aconselha+como+jovem+por+pela+como+com+segundo" 184 399 1 5 
+"<PRO+TRA>" 175 515 1 5 
+"<FIRST>" 377 188 3 1 6 5 
+"de+da+dos" 392 83 1 5 
